@@ -232,28 +232,4 @@ The application follows a clean architecture pattern:
 - Smooth navigation transitions
 - Loading states and error handling
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the ISC License.
-
-## 🙏 Acknowledgments
-
-- Inspired by Paytm's digital payment platform
-- Built with modern web technologies
-- Designed for learning and demonstration purposes
-
-## 📞 Support
-
-For support or questions, please open an issue in the repository or contact the development team.
-
----
-
-**Note**: This is a demonstration project and should not be used for actual financial transactions. Always use official payment gateways for real-world applications.
